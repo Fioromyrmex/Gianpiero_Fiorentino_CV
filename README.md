@@ -10,7 +10,7 @@
 ---
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678-green?logo=orcid)](https://orcid.org/0000-0002-1234-5678)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=XXXXX)
-[![ResearchGate](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AResearchGate_icon_SVG.svg&psig=AOvVaw3C6JeN0-voSRblYyqZRoHp&ust=1755979359130000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNiyjYKbn48DFQAAAAAdAAAAABAE)](https://www.researchgate.net/profile/Gianpiero-Fiorentino?ev=hdr_xprf)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb)](https://www.researchgate.net/profile/Gianpiero-Fiorentino?ev=hdr_xprf)
 [![Email](https://img.shields.io/badge/Email-gf6%40njit.edu-red?logo=gmail)](mailto:gf6@njit.edu)
 
 ---

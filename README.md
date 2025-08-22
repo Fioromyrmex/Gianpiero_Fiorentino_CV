@@ -68,6 +68,7 @@ Ph.D. candidate in Biology focused on ant systematics, paleoentomology, and how 
 3.	Fiorentino, G., Tocora, M. C., & Fernández, F. (2022). A new species of small myrmicine ant in the genus Eurhopalothrix Brown & Kempf, 1961 (Hymenoptera: Formicidae) from Colombia. Revista Colombiana de Entomología, 48(1). https://doi.org/10.25100/socolen.v48i1.11484
 2.	García, E. I., Tocora, M. C., Fiorentino, G., Escárraga, M. E., Fernández, F., & Guerrero, R. J. (2020). New records of ants (Hymenoptera: Formicidae) for Colombia. Biota Neotropica, 20. https://doi.org/10.1590/1676-0611-BN-2020-1088
 1.	Tocora, M. C., Fiorentino, G., & Fernández, F. (2020). Strepsiptera from Colombia: First record of the genus Strichotrema Hofeneder (Myrmecolacidae) and a new host–parasitoid association with Megalomyrmex cyendyra (Hymenoptera: Formicidae). Zootaxa, 4728(2), 266–274. https://doi.org/10.11646/zootaxa.4728.2.7
+{: reversed="reversed"}
 ---
 
 ## Selected Presentations

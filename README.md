@@ -57,8 +57,11 @@ Ph.D. candidate in biology, focusing on ant systematics, paleoentomology, and ho
 - **Fiorentino, G.,** Ladino, N., Mera, D., Cubillos, D., Cavalcanti, J. P., Probst, R., ... & Barden, P. (2025). *The ants of Dominican Amber (Hymenoptera: Formicidae).* Bulletin of the American Museum of Natural History. (in prep).
 - **Fiorentino, G.,** Bouju, V., Sosa, D., Navarro, S., Barden, P. (2025). *The ant genus Hypoponera (Hymenoptera: Formicidae) in Dominican amber.* Journal of Paleontology. (in prep).
 - Bouju, V., Chény, C., Gotzek, D., Wang, B., Perrichot, V., Barden, P., **Fiorentino, G.,** (2025). *The myrmicine thief ants Solenopsis...* (in prep).
+
 11- **Fiorentino, G.,** Probst, R., & Richter, A. (2025). *A fossil-informed pattern of body size increase and local extinction in Basiceros dirt ants (Hymenoptera: Formicidae).* Proceedings of the Royal Society B, 292, 2045. [https://doi.org/10.1098/rspb.2024.2171](https://doi.org/10.1098/rspb.2024.2171)
+
 10- **Fiorentino, G.,** Sánchez, A., & Barden, P. (2025). *A new species of Crematogaster...* Novitates Caribaea. [https://doi.org/10.33800/nc.vi26.374](https://doi.org/10.33800/nc.vi26.374)
+
 9- Herrera, H. W., Tocora, M. C., **Fiorentino, G.,** ... (2024). *The ants of the Galápagos Islands (Hymenoptera: Formicidae): A historical overview, checklist, and identification key.* ZooKeys, 1191, 151. [https://doi.org/10.3897/zookeys.1191.107324](https://doi.org/10.3897/zookeys.1191.107324)
 4. Sawh, I., Bae, E., Camilo, L., Lanan, M., Lucky, A., Menezes, H. M., **Fiorentino, G.,** Sosiak, C., Khadempour, L., & Barden, P. (2023). The first fossil replete ant worker establishes living food storage in the Eocene. Myrmecological News, 33, 139–146. https://doi.org/10.25849/MYRMECOL.NEWS_033:139
 5. Guerrero, R. J., Grajales-Andica, A. F., Fernández, F., Tocora, M. C., **Fiorentino, G.,** & García, D. R. (2024). The ants of the genus Rhopalothrix Mayr, 1870 (Hymenoptera: Formicidae: Myrmicinae) in Colombia. ZooKeys, 1191, 129–150. https://doi.org/10.3897/zookeys.1191.110418

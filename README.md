@@ -36,7 +36,7 @@
 ---
 
 ## About
-Ph.D. candidate in Biology focused on ant systematics, paleoentomology, and how extinction shapes communities through deep time. Experienced in field work, CT-scanning, morphology, and science communication; committed to inclusive mentorship and teaching.
+Ph.D. candidate in biology, focusing on ant systematics, paleoentomology, and how extinction shapes communities across deep time. Experienced in field work, CT-scanning, morphology, and science communication; committed to inclusive mentorship and teaching.
 
 ---
 
@@ -124,20 +124,20 @@ Jeeshan, A.,* **Fiorentino, G.,** Barden P. 2023. Niche Preference and Mandibula
 
 ## Positions
 
-### Visiting researcher									      2022 - present
-    American Museum of Natural History (AMNH)			
-### Research Assistant									      2020 - present
-    New Jersey Institute of Technology (NJIT)
-### Teaching Assistant									         2020 – 2022
-    New Jersey Institute of Technology (NJIT)
-### Research Assistant									          2021 – 2023
-    Escuela Superior Politecnica de Chimborazo (ESPOCH)
-### Curatorial Assistant									        2017 – 2019
-    Universidad Nacional de Colombia (UNAL)
-### Teaching Assistant									         2018 – 2019
-    Universidad Nacional de Colombia (UNAL)
-### Visiting researcher									         2018 - 2023
-       Various institutions - Instituto Alexander von Humboldt: Villa de Leyva (Colombia), Instituto de Investigaciones   Amazónicas SINCHI: Leticia (Colombia), Museo Javeriano de Historia Natural Lorenzo Uribe S.J., Pontificia Universidad Javeriana: Bogotá D.C. (Colombia). Insect Collection Charles Darwin Research Station, ICCDRS: Galapagos (Ecuador)
+#### Visiting researcher									      2022 - present
+  American Museum of Natural History (AMNH)			
+#### Research Assistant									      2020 - present
+  New Jersey Institute of Technology (NJIT)
+#### Teaching Assistant									         2020 – 2022
+  New Jersey Institute of Technology (NJIT)
+#### Research Assistant									          2021 – 2023
+  Escuela Superior Politecnica de Chimborazo (ESPOCH)
+#### Curatorial Assistant									        2017 – 2019
+  Universidad Nacional de Colombia (UNAL)
+#### Teaching Assistant									         2018 – 2019
+  Universidad Nacional de Colombia (UNAL)
+#### Visiting researcher									         2018 - 2023
+  Various institutions - Instituto Alexander von Humboldt: Villa de Leyva (Colombia), Instituto de Investigaciones   Amazónicas SINCHI: Leticia (Colombia), Museo Javeriano de Historia Natural Lorenzo Uribe S.J., Pontificia Universidad Javeriana: Bogotá D.C. (Colombia). Insect Collection Charles Darwin Research Station, ICCDRS: Galapagos (Ecuador)
 
 ---
 
@@ -190,7 +190,7 @@ Jeeshan, A.,* **Fiorentino, G.,** Barden P. 2023. Niche Preference and Mandibula
 
 ## Professional Service
 - Editorial Board · Sociedad Entomológica de Colombia (language editor) · 2018–2020
-- Journal referee (9 outlets): *Biodiversity Data Journal, Fossil Record, Insects, Journal of Hymenoptera Research, ...*
+- Journal referee (9 outlets): *Biodiversity data journal, Fossil Record, Insect, Journal of Hymenoptera Research, Mitteilungen aus dem Museum für Naturkunde in Berlin, Revista Chilena de Entomología, Sociedad Entomologica de Colombia, ZooKeys.*
 
 ---
 

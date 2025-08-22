@@ -93,6 +93,7 @@ Ph.D. candidate in Biology focused on ant systematics, paleoentomology, and how 
 
 ## Posters
 * Denotes undergraduate mentee
+
 Bitting, L.,* Barden P., **Fiorentino, G.** 2025. Leveraging AI to bring fossils back to life. HSRI Student Research Showcase, NJIT, Newark, New Jersey.
 
 Gomez, A.,* Barden P., Fiorentino, G. 2024. How does extinction affect and shape lineages in ant species over time? Dana Knox Student Research Showcase, NJIT, Newark, New Jersey.

@@ -60,35 +60,52 @@ Ph.D. candidate in Biology focused on ant systematics, paleoentomology, and how 
 1. **Fiorentino, G.,** Probst, R., & Richter, A. (2025). *A fossil-informed pattern of body size increase and local extinction in Basiceros dirt ants (Hymenoptera: Formicidae).* Proceedings of the Royal Society B, 292, 2045. [https://doi.org/10.1098/rspb.2024.2171](https://doi.org/10.1098/rspb.2024.2171)
 2. **Fiorentino, G.,** Sánchez, A., & Barden, P. (2025). *A new species of Crematogaster...* Novitates Caribaea. [https://doi.org/10.33800/nc.vi26.374](https://doi.org/10.33800/nc.vi26.374)
 3. Herrera, H. W., Tocora, M. C., **Fiorentino, G.,** ... (2024). *The ants of the Galápagos Islands (Hymenoptera: Formicidae): A historical overview, checklist, and identification key.* ZooKeys, 1191, 151. [https://doi.org/10.3897/zookeys.1191.107324](https://doi.org/10.3897/zookeys.1191.107324)
-4. Sawh, I., Bae, E., Camilo, L., Lanan, M., Lucky, A., Menezes, H. M., Fiorentino, G., Sosiak, C., Khadempour, L., & Barden, P. (2023). The first fossil replete ant worker establishes living food storage in the Eocene. Myrmecological News, 33, 139–146. https://doi.org/10.25849/MYRMECOL.NEWS_033:139
-5. Guerrero, R. J., Grajales-Andica, A. F., Fernández, F., Tocora, M. C., Fiorentino, G., & García, D. R. (2024). The ants of the genus Rhopalothrix Mayr, 1870 (Hymenoptera: Formicidae: Myrmicinae) in Colombia. ZooKeys, 1191, 129–150. https://doi.org/10.3897/zookeys.1191.110418
-6. Fernández, F., Fiorentino, G., & Castro, D. (2023). A new species of Typhlomyrmex from Colombia, re-description of the worker of T. clavicornis Emery, description of the worker of T. prolatus Brown, and key of known species (Hymenoptera: Formicidae). Journal of Hymenoptera Research, 96, 579–597. https://doi.org/10.3897/jhr.96.103219
-7. Fiorentino, G., Lattke, J., Troya, A., Sosiak, C., Dong, M., & Barden, P. (2023). Deep time extinction of largest insular ant predators and the first fossil Neoponera (Formicidae: Ponerinae) from Miocene-age Dominican amber. BMC Biology, 21, 26. https://doi.org/10.1186/s12915-022-01488-9
-8.	Fiorentino, G., Tocora, M. C., & Ramírez, S. (2022). A new species of Metopiellus (Coleoptera: Staphylinidae: Pselaphinae) from the northern Colombian Amazon. ZooKeys, 1108, 1–9. https://doi.org/10.3897/zookeys.1108.76077
-9.	Fiorentino, G., Tocora, M. C., & Fernández, F. (2022). A new species of small myrmicine ant in the genus Eurhopalothrix Brown & Kempf, 1961 (Hymenoptera: Formicidae) from Colombia. Revista Colombiana de Entomología, 48(1). https://doi.org/10.25100/socolen.v48i1.11484
-10.	García, E. I., Tocora, M. C., Fiorentino, G., Escárraga, M. E., Fernández, F., & Guerrero, R. J. (2020). New records of ants (Hymenoptera: Formicidae) for Colombia. Biota Neotropica, 20. https://doi.org/10.1590/1676-0611-BN-2020-1088
-11.	Tocora, M. C., Fiorentino, G., & Fernández, F. (2020). Strepsiptera from Colombia: First record of the genus Strichotrema Hofeneder (Myrmecolacidae) and a new host–parasitoid association with Megalomyrmex cyendyra (Hymenoptera: Formicidae). Zootaxa, 4728(2), 266–274. https://doi.org/10.11646/zootaxa.4728.2.7
+4. Sawh, I., Bae, E., Camilo, L., Lanan, M., Lucky, A., Menezes, H. M., **Fiorentino, G.,** Sosiak, C., Khadempour, L., & Barden, P. (2023). The first fossil replete ant worker establishes living food storage in the Eocene. Myrmecological News, 33, 139–146. https://doi.org/10.25849/MYRMECOL.NEWS_033:139
+5. Guerrero, R. J., Grajales-Andica, A. F., Fernández, F., Tocora, M. C., **Fiorentino, G.,** & García, D. R. (2024). The ants of the genus Rhopalothrix Mayr, 1870 (Hymenoptera: Formicidae: Myrmicinae) in Colombia. ZooKeys, 1191, 129–150. https://doi.org/10.3897/zookeys.1191.110418
+6. Fernández, F., **Fiorentino, G.,** & Castro, D. (2023). A new species of Typhlomyrmex from Colombia, re-description of the worker of T. clavicornis Emery, description of the worker of T. prolatus Brown, and key of known species (Hymenoptera: Formicidae). Journal of Hymenoptera Research, 96, 579–597. https://doi.org/10.3897/jhr.96.103219
+7. **Fiorentino, G.,** Lattke, J., Troya, A., Sosiak, C., Dong, M., & Barden, P. (2023). Deep time extinction of largest insular ant predators and the first fossil Neoponera (Formicidae: Ponerinae) from Miocene-age Dominican amber. BMC Biology, 21, 26. https://doi.org/10.1186/s12915-022-01488-9
+8.	**Fiorentino, G.,** Tocora, M. C., & Ramírez, S. (2022). A new species of Metopiellus (Coleoptera: Staphylinidae: Pselaphinae) from the northern Colombian Amazon. ZooKeys, 1108, 1–9. https://doi.org/10.3897/zookeys.1108.76077
+9.	**Fiorentino, G.,** Tocora, M. C., & Fernández, F. (2022). A new species of small myrmicine ant in the genus Eurhopalothrix Brown & Kempf, 1961 (Hymenoptera: Formicidae) from Colombia. Revista Colombiana de Entomología, 48(1). https://doi.org/10.25100/socolen.v48i1.11484
+10.	García, E. I., Tocora, M. C., **Fiorentino, G.,** Escárraga, M. E., Fernández, F., & Guerrero, R. J. (2020). New records of ants (Hymenoptera: Formicidae) for Colombia. Biota Neotropica, 20. https://doi.org/10.1590/1676-0611-BN-2020-1088
+11.	Tocora, M. C., **Fiorentino, G.,** & Fernández, F. (2020). Strepsiptera from Colombia: First record of the genus Strichotrema Hofeneder (Myrmecolacidae) and a new host–parasitoid association with Megalomyrmex cyendyra (Hymenoptera: Formicidae). Zootaxa, 4728(2), 266–274. https://doi.org/10.11646/zootaxa.4728.2.7
 
 ---
 
 ## Selected Presentations
 
 ### Invited Talks
-- Fiorentino, G.; Barden, P. 2025. *El impacto de la extinción en las comunidades biológicas a lo largo del tiempo.* Sociedad Entomologica de Colombia, Santa Marta, Colombia.
-- Fiorentino, G.; Barden, P. 2025. *Las hormigas fósiles como una herramienta para estudiar la evolución.* Museo Nacional de Historia Natural, Santo Domingo, República Dominicana.
-- Fiorentino, G., Herrera, H.W., Fernández, F., Barden, P. 2023. *¿Cómo afectan las especies invasoras la diversidad de hormigas en las islas Galápagos?* Escuela Superior Politécnica del Chimborazo, Riobamba, Ecuador.
+- **Fiorentino, G.,** Barden, P. 2025. *El impacto de la extinción en las comunidades biológicas a lo largo del tiempo.* Sociedad Entomologica de Colombia, Santa Marta, Colombia.
+- **Fiorentino, G.,** Barden, P. 2025. *Las hormigas fósiles como una herramienta para estudiar la evolución.* Museo Nacional de Historia Natural, Santo Domingo, República Dominicana.
+- **Fiorentino, G.,** Herrera, H.W., Fernández, F., Barden, P. 2023. *¿Cómo afectan las especies invasoras la diversidad de hormigas en las islas Galápagos?* Escuela Superior Politécnica del Chimborazo, Riobamba, Ecuador.
 
 ### Conference Talks
-- Fiorentino, G.; Barden, P. 2024. *Unraveling the role of deep time local extinction on community structure in the Hispaniolan ant community.* Ecomorphology Symposium, Okinawa, Japan.
-- Fiorentino, G.; Probst, R.; Richter, A.; Economo; Barden, P. 2024. *Fossils reveal universal body size increase in Basiceros.* IUSSI, Lausanne, Switzerland.
-- [More talks...]
+**Fiorentino, G.,** Barden, P. 2024. Unraveling the role of deep time local extinction on community structure in the Hispaniolan ant community - Ecomorphology Symposium at Taiwan-Japan Ecology Workshop, Okinawa, Japan.
+
+**Fiorentino, G.,** Probst, R., Richter, A., Economo, Barden, P 2024. Fossils reveal universal body size increase in the ant genus Basiceros (Formicidae: Myrmicinae). International Union for the Study of Social Insects. Lausanne, Switzerland. 
+
+**Fiorentino, G.,** Barden, P. 2022. Deep time extinction of largest insular ant predators and the first fossil Neoponera (Formicidae: Ponerinae) from Miocene age Dominican amber. Society for the Study of Evolution, conference conducted online.
+
+**Fiorentino, G.,** Barden, P. 2022. Local extinction in large island predators and the first fossil ant in the genus Neoponera (Formicidae: Ponerinae) from Miocene age Dominican amber. Social Insects in the Northeast Region Conference (SINNERS), Newark, New Jersey.
+
+**Fiorentino, G.,** Barden, P. 2021. The first fossil tiger ant of the genus Neoponera (Ponerinae: Formicidae). Entomological Society of America Annual Meeting, Denver, Colorado.
 
 ---
 
 ## Posters
-- Bitting, L.*, Barden P., Fiorentino, G. 2025. *Leveraging AI to bring fossils back to life.* HSRI Student Research Showcase, NJIT.
-- Gomez, A.*, Barden P., Fiorentino, G. 2024. *How does extinction affect and shape lineages in ant species over time?* Dana Knox Showcase, NJIT.
-- [More posters...]
+* Denotes undergraduate mentee
+Bitting, L.,* Barden P., **Fiorentino, G.** 2025. Leveraging AI to bring fossils back to life. HSRI Student Research Showcase, NJIT, Newark, New Jersey.
+
+Gomez, A.,* Barden P., Fiorentino, G. 2024. How does extinction affect and shape lineages in ant species over time? Dana Knox Student Research Showcase, NJIT, Newark, New Jersey.
+
+**Fiorentino, G.,** Barden P. 2023. Deep time extinction of largest insular ant predators from Miocene age Dominican amber. Graduate research day, NJIT, Newark, New Jersey. Won Award
+
+Jeeshan, A.,* **Fiorentino, G.,** Barden P. 2023. Niche Preference and Mandibular Specialization in Ants. Dana Knox Student Research Showcase, NJIT, Newark, New Jersey. Won Award
+
+**Fiorentino, G.,** Tocora M.C., Castro D, Barden P, Fernández F. 2020. Gazing Into the Colombian Amazon AntDiversity: Advances and perspectives in a war-torn country. Entomological Society of America (ESA).
+
+**Fiorentino, G.,** Cala-Riquelme, F. Florez, A. 2019. Z4-Aproximación a la Diversidad de Arácnidos Y Miriápodos del Chocó Colombiano Con Énfasis En Opiliones. V Congreso Colombiano de Zoología. Asociación Colombiana de Zoología. Bogotá, Colombia
+
+**Fiorentino, G.,** Florez, A. 2019. Aporte Preliminar a la Fauna De Opiliones (Arachnida) del Chocó Biogeográfico De Colombia. Memorias Congreso Colombiano de Entomología. Santiago de Cali, Colombia.
 
 ---
 

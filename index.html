@@ -1,0 +1,372 @@
+import React from "react";
+
+// Single-file CV website for Gianpiero Fiorentino
+// Tailwind CSS is used for styling.
+// Print-friendly: use the "Print / Save PDF" button or browser print dialog.
+
+export default function CVSite() {
+  const contact = {
+    name: "Gianpiero Fiorentino",
+    affiliation1: "New Jersey Institute of Technology",
+    affiliation2: "Department of Biological Sciences",
+    email: "gf6@njit.edu",
+    website: "https://bardenlab.org/gianpiero",
+    phone: "+1 313-423-7312",
+    location: "Newark, NJ, USA",
+  };
+
+  const education = [
+    {
+      degree: "Ph.D. in Biology",
+      place: "New Jersey Institute of Technology / Rutgers–Newark (USA)",
+      years: "2020 – expected 2026",
+      advisor: "Advisor: Phillip Barden, Ph.D.",
+    },
+    {
+      degree: "B.Sc. in Biological Sciences",
+      place: "Universidad Nacional de Colombia (UNAL)",
+      years: "2014 – 2019",
+      advisor: "Advisor: Fernando Fernández, Ph.D.",
+    },
+  ];
+
+  const publications = [
+    {
+      text:
+        "Fiorentino, G., Ladino, N., Mera, D., Cubillos, D., Cavalcanti, J. P., Probst, R., Blaimer, B., Camacho, G., Fernandez, F., Feitosa, R., Guerrero, R. J., Lattke, J., LaPolla, J., Schultz, T., Sosa-Calvo, J., Economo, E., Sosa, D., Navarro, S., & Barden, P. (2025). The ants of Dominican Amber (Hymenoptera: Formicidae). Bulletin of the American Museum of Natural History. (in prep).",
+    },
+    {
+      text:
+        "Fiorentino, G., Bouju, V., Sosa, D., Navarro, S., Barden, P. (2025). The ant genus Hypoponera (Hymenoptera: Formicidae) in Dominican amber. Journal of Paleontology. (in prep).",
+    },
+    {
+      text:
+        "Bouju, V., Chény, C., Gotzek, D., Wang, B., Perrichot, V., Barden, P., Fiorentino, G. (2025). The myrmicine thief ants Solenopsis (Hymenoptera: Formicidae) in Dominican amber: First fossil record of the genus in fossilized resin. (in prep).",
+    },
+    {
+      text:
+        "Fiorentino, G., Probst, R., & Richter, A. (2025). A fossil-informed pattern of body size increase and local extinction in Basiceros dirt ants (Hymenoptera: Formicidae). Proceedings of the Royal Society B, 292, 2045. https://doi.org/10.1098/rspb.2024.2171",
+    },
+    {
+      text:
+        "Fiorentino, G., Sánchez, A., & Barden, P. (2025). A new species of Crematogaster (Hymenoptera: Formicidae: Myrmicinae) with contrasting coloration unique to the Caribbean. Novitates Caribaea, 1–10. https://doi.org/10.33800/nc.vi26.374",
+    },
+    {
+      text:
+        "Herrera, H. W., Tocora, M. C., Fiorentino, G., Causton, C. E., Dekoninck, W., & Hendrickx, F. (2024). The ants of the Galápagos Islands (Hymenoptera: Formicidae): A historical overview, checklist, and identification key. ZooKeys, 1191, 151. https://doi.org/10.3897/zookeys.1191.107324",
+    },
+    {
+      text:
+        "Sawh, I., Bae, E., Camilo, L., Lanan, M., Lucky, A., Menezes, H. M., Fiorentino, G., Sosiak, C., Khadempour, L., & Barden, P. (2023). The first fossil replete ant worker establishes living food storage in the Eocene. Myrmecological News, 33, 139–146. https://doi.org/10.25849/MYRMECOL.NEWS_033:139",
+    },
+    {
+      text:
+        "Guerrero, R. J., Grajales-Andica, A. F., Fernández, F., Tocora, M. C., Fiorentino, G., & García, D. R. (2024). The ants of the genus Rhopalothrix Mayr, 1870 (Hymenoptera: Formicidae: Myrmicinae) in Colombia. ZooKeys, 1191, 129–150. https://doi.org/10.3897/zookeys.1191.110418",
+    },
+    {
+      text:
+        "Fernández, F., Fiorentino, G., & Castro, D. (2023). A new species of Typhlomyrmex from Colombia, re-description of the worker of T. clavicornis Emery, description of the worker of T. prolatus Brown, and key of known species (Hymenoptera: Formicidae). Journal of Hymenoptera Research, 96, 579–597. https://doi.org/10.3897/jhr.96.103219",
+    },
+    {
+      text:
+        "Fiorentino, G., Lattke, J., Troya, A., Sosiak, C., Dong, M., & Barden, P. (2023). Deep time extinction of largest insular ant predators and the first fossil Neoponera (Formicidae: Ponerinae) from Miocene-age Dominican amber. BMC Biology, 21, 26. https://doi.org/10.1186/s12915-022-01488-9",
+    },
+    {
+      text:
+        "Fiorentino, G., Tocora, M. C., & Ramírez, S. (2022). A new species of Metopiellus (Coleoptera: Staphylinidae: Pselaphinae) from the northern Colombian Amazon. ZooKeys, 1108, 1–9. https://doi.org/10.3897/zookeys.1108.76077",
+    },
+    {
+      text:
+        "Fiorentino, G., Tocora, M. C., & Fernández, F. (2022). A new species of small myrmicine ant in the genus Eurhopalothrix Brown & Kempf, 1961 (Hymenoptera: Formicidae) from Colombia. Revista Colombiana de Entomología, 48(1). https://doi.org/10.25100/socolen.v48i1.11484",
+    },
+    {
+      text:
+        "García, E. I., Tocora, M. C., Fiorentino, G., Escárraga, M. E., Fernández, F., & Guerrero, R. J. (2020). New records of ants (Hymenoptera: Formicidae) for Colombia. Biota Neotropica, 20. https://doi.org/10.1590/1676-0611-BN-2020-1088",
+    },
+    {
+      text:
+        "Tocora, M. C., Fiorentino, G., & Fernández, F. (2020). Strepsiptera from Colombia: First record of the genus Strichotrema Hofeneder (Myrmecolacidae) and a new host–parasitoid association with Megalomyrmex cyendyra (Hymenoptera: Formicidae). Zootaxa, 4728(2), 266–274. https://doi.org/10.11646/zootaxa.4728.2.7",
+    },
+  ];
+
+  const invitedTalks = [
+    "Fiorentino, G.; Barden, P. 2025. El impacto de la extinción en las comunidades biológicas a lo largo del tiempo – Sociedad Entomologica de Colombia, Santa Marta, Colombia.",
+    "Fiorentino, G.; Barden, P. 2025. Las hormigas fósiles como una herramienta para estudiar la evolución – Museo Nacional de Historia Natural ‘Prof. Eugenio de Jesús Marcano’, Santo Domingo, República Dominicana.",
+    "Fiorentino, G., Herrera, H.W., Fernández, F., Barden, P. 2023. ¿Cómo afectan las especies invasoras la diversidad de hormigas en las islas Galápagos? Escuela Superior Politécnica del Chimborazo, Riobamba, Ecuador.",
+  ];
+
+  const conferenceTalks = [
+    "Fiorentino, G.; Barden, P. 2024. Unraveling the role of deep time local extinction on community structure in the Hispaniolan ant community – Ecomorphology Symposium at Taiwan–Japan Ecology Workshop, Okinawa, Japan.",
+    "Fiorentino, G.; Probst, R.; Richter, A.; Economo; Barden, P. 2024. Fossils reveal universal body size increase in the ant genus Basiceros (Formicidae: Myrmicinae). International Union for the Study of Social Insects, Lausanne, Switzerland.",
+    "Fiorentino, G.; Herrera, H.W.; Fernández, F.; Barden, P. 2022. How do Invasive Species affect Island Ant Communities? Charles Darwin Research Station Charlas Científicas!, Galápagos, Ecuador. Invited Speaker.",
+    "Fiorentino, G.; Barden, P. 2022. Deep time extinction of largest insular ant predators and the first fossil Neoponera (Formicidae: Ponerinae) from Miocene age Dominican amber. Society for the Study of Evolution (online).",
+    "Fiorentino, G.; Barden, P. 2022. Local extinction in large island predators and the first fossil ant in the genus Neoponera (Formicidae: Ponerinae) from Miocene age Dominican amber. Social Insects in the Northeast Region Conference (SINNERS), Newark, New Jersey.",
+    "Fiorentino, G.; Barden, P. 2021. The first fossil tiger ant of the genus Neoponera (Ponerinae: Formicidae). Entomological Society of America Annual Meeting, Denver, Colorado.",
+  ];
+
+  const posters = [
+    "Bitting, L.*, Barden P., Fiorentino, G. 2025. Leveraging AI to bring fossils back to life. HSRI Student Research Showcase, NJIT, Newark, New Jersey.",
+    "Gomez, A.*, Barden P., Fiorentino, G. 2024. How does extinction affect and shape lineages in ant species over time? Dana Knox Student Research Showcase, NJIT, Newark, New Jersey.",
+    "Fiorentino, G.; Barden, P. 2023. Deep time extinction of largest insular ant predators from Miocene age Dominican amber. Graduate Research Day, NJIT, Newark, New Jersey. Won Award.",
+    "Jeeshan, A.*, Fiorentino, G.; Barden, P. 2023. Niche Preference and Mandibular Specialization in Ants. Dana Knox Student Research Showcase, NJIT, Newark, New Jersey. Won Award.",
+    "Fiorentino, G.; Tocora, M.C.; Castro, D.; Barden, P.; Fernández, F. 2020. Gazing Into the Colombian Amazon Ant Diversity: Advances and perspectives in a war-torn country. Entomological Society of America (ESA).",
+    "Fiorentino, G.; Cala-Riquelme, F.; Flórez, A. 2019. Z4 – Aproximación a la diversidad de arácnidos y miriápodos del Chocó colombiano con énfasis en Opiliones. V Congreso Colombiano de Zoología, Bogotá, Colombia.",
+    "Fiorentino, G.; Flórez, A. 2019. Aporte preliminar a la fauna de Opiliones (Arachnida) del Chocó Biogeográfico de Colombia. Congreso Colombiano de Entomología, Santiago de Cali, Colombia.",
+  ];
+
+  const funding = [
+    "2024–2025 · Sigma Xi – Grants in Aid of Research: The impact of extinction on biological communities through deep time. [$2,970]",
+    "2024–2025 · Theodore Roosevelt Memorial Fund: Unraveling the role of deep time local extinction on community structure in the Hispaniolan ant community. [$2,100]",
+  ];
+
+  const awards = [
+    "2025 · NJIT – Excellence in Instruction by Teaching Assistants Award [sole annual recipient]",
+    "2024 · NJIT – Travel award",
+  ];
+
+  const positions = [
+    "Visiting Researcher · American Museum of Natural History (AMNH) · 2022 – present",
+    "Research Assistant · New Jersey Institute of Technology (NJIT) · 2020 – present",
+    "Teaching Assistant · New Jersey Institute of Technology (NJIT) · 2020 – 2022",
+    "Research Assistant · Escuela Superior Politécnica de Chimborazo (ESPOCH) · 2021 – 2023",
+    "Curatorial Assistant · Universidad Nacional de Colombia (UNAL) · 2017 – 2019",
+    "Teaching Assistant · Universidad Nacional de Colombia (UNAL) · 2018 – 2019",
+    "Visiting Researcher · Various institutions – IAvH (Villa de Leyva), SINCHI (Leticia), MJHN Lorenzo Uribe S.J. (Bogotá), ICCDRS (Galápagos) · 2018 – 2023",
+  ];
+
+  const outreach = [
+    "Organizer · Segundo Simposio Iberoamericano de Mirmecología · 2023",
+    "Organizer · Primer Simposio Iberoamericano de Mirmecología (virtual, 4 days) · 2020",
+    "Ant workshop – Ants of Vaupés · Universidad Nacional de Colombia (Mitú, Vaupés) · 2020",
+    "Co‑founder · Neotropical Ants Study Group (GEHN) · 2019 – present (weekly talks, social media across Twitter/Instagram/Facebook/YouTube/TikTok)",
+  ];
+
+  const press = [
+    "2025 · ‘It’s like finding a diamond’ – Discover Wildlife (BBC Wildlife Magazine)",
+    "2025 · Prehistoric ant preserved in amber reveals Caribbean's vanished species – ABC News",
+  ];
+
+  const professionalDev = [
+    "Certificate in Effective Instruction · Association of College and University Educators (ACUE) · 2021",
+    "Advanced Theory & Practice of Teaching · Rutgers Newark (USA) · 2021",
+  ];
+
+  const coursesNJIT = [
+    "BIOL 205: Foundations of Biology: Ecology & Evolution (Guest Lecturer) · Summer ’24, ’25",
+    "BIOL 206: Foundations of Biology: Ecology & Evolution Lab · Spring & Fall ’21–’23",
+    "BIOL 484: Evolutionary Animal Behavior (Guest Lecturer) · Summer ’22",
+    "BIOL 382: Evolutionary Animal Behavior Lab (Teaching Assistant) · Summer ’22",
+    "BIOL 352: Genetics (Teaching Assistant) · Fall ’20",
+  ];
+
+  const coursesOther = [
+    "Biología Evolutiva (Teaching Assistant) · Universidad Nacional de Colombia · Spring ’19",
+    "Biología de Artrópodos (Teaching Assistant) · Universidad Nacional de Colombia · Fall ’19",
+  ];
+
+  const mentorship = [
+    "2024– · Andrea Gomez (morphology)",
+    "2023– · Kristina Camia (morphology)",
+    "2023– · Luke Biting (morphology)",
+    "2023– · Brock Shahinian (ecology)",
+    "2023– · Saskia Trommelen (CT‑scanning)",
+    "2020–23 · Jeeshan Ahmed (morphology)",
+  ];
+
+  const service = [
+    "Editorial Board · Sociedad Entomológica de Colombia (language editor) · 2018–2020",
+    "Journal referee (9 outlets): Biodiversity Data Journal, Fossil Record, Insects, Journal of Hymenoptera Research, Mitteilungen aus dem Museum für Naturkunde in Berlin, Revista Chilena de Entomología, Sociedad Entomológica de Colombia, ZooKeys.",
+  ];
+
+  const associations = [
+    "Entomological Society of America",
+    "Society for the Study of Evolution",
+    "Sociedad Entomológica de Colombia",
+    "Asociación Colombiana de Zoología",
+    "International Union for the Study of Social Insects",
+  ];
+
+  const Section = ({ id, title, children }) => (
+    <section id={id} className="scroll-mt-24">
+      <h2 className="text-xl font-semibold tracking-tight mb-3 text-gray-900 dark:text-gray-50">{title}</h2>
+      <div className="space-y-3 text-sm leading-relaxed text-gray-700 dark:text-gray-200">{children}</div>
+    </section>
+  );
+
+  const List = ({ items }) => (
+    <ul className="list-disc pl-5 space-y-2">
+      {items.map((t, i) => (
+        <li key={i} className="break-words">{t}</li>
+      ))}
+    </ul>
+  );
+
+  const onPrint = () => window.print();
+
+  const nav = [
+    ["about", "About"],
+    ["education", "Education"],
+    ["publications", "Publications"],
+    ["talks", "Talks"],
+    ["posters", "Posters"],
+    ["funding", "Funding"],
+    ["awards", "Awards"],
+    ["positions", "Positions"],
+    ["outreach", "Outreach"],
+    ["press", "Popular Press"],
+    ["development", "Professional Development"],
+    ["courses", "Course Instruction"],
+    ["mentorship", "Mentorship"],
+    ["service", "Service"],
+    ["associations", "Associations"],
+  ];
+
+  return (
+    <div className="min-h-screen bg-white text-gray-900 dark:bg-neutral-950 dark:text-gray-100 selection:bg-amber-200 dark:selection:bg-amber-400/30">
+      {/* Top bar */}
+      <header className="sticky top-0 z-20 backdrop-blur supports-[backdrop-filter]:bg-white/70 dark:supports-[backdrop-filter]:bg-neutral-950/70 bg-white/90 dark:bg-neutral-950/90 border-b border-black/5 dark:border-white/10 print:hidden">
+        <div className="mx-auto max-w-5xl px-4 py-3 flex items-center gap-3">
+          <div className="flex-1">
+            <h1 className="text-lg font-semibold tracking-tight">{contact.name}</h1>
+            <p className="text-xs text-gray-600 dark:text-gray-400">{contact.affiliation1} · {contact.affiliation2}</p>
+          </div>
+          <nav className="hidden md:flex gap-4 text-sm">
+            {nav.map(([id, label]) => (
+              <a key={id} href={`#${id}`} className="hover:underline underline-offset-4">
+                {label}
+              </a>
+            ))}
+          </nav>
+          <button onClick={onPrint} className="rounded-2xl border px-3 py-1.5 text-sm hover:bg-black/5 dark:hover:bg-white/10">
+            Print / Save PDF
+          </button>
+        </div>
+      </header>
+
+      {/* Main content */}
+      <main className="mx-auto max-w-5xl px-4 py-8 md:py-10 grid md:grid-cols-4 gap-8 print:block">
+        {/* Sidebar */}
+        <aside className="md:col-span-1 print:hidden">
+          <div className="sticky top-20 space-y-4">
+            <div className="rounded-3xl border border-black/5 dark:border-white/10 p-4">
+              <h2 className="text-base font-semibold">Contact</h2>
+              <div className="mt-2 text-sm space-y-1">
+                <p><a href={`mailto:${contact.email}`} className="hover:underline">{contact.email}</a></p>
+                <p><a href={contact.website} className="hover:underline" target="_blank" rel="noreferrer">bardenlab.org/gianpiero</a></p>
+                <p>{contact.phone}</p>
+                <p>{contact.location}</p>
+              </div>
+            </div>
+            <div className="rounded-3xl border border-black/5 dark:border-white/10 p-4">
+              <h2 className="text-base font-semibold">Quick Links</h2>
+              <ul className="mt-2 text-sm space-y-1">
+                {nav.map(([id, label]) => (
+                  <li key={id}><a href={`#${id}`} className="hover:underline">{label}</a></li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </aside>
+
+        {/* Content */}
+        <div className="md:col-span-3 space-y-10">
+          <Section id="about" title="About">
+            <p>
+              Ph.D. candidate in Biology focused on ant systematics, paleoentomology, and how extinction shapes communities through deep time. Experienced in field work, CT‑scanning, morphology, and science communication; committed to inclusive mentorship and teaching.
+            </p>
+          </Section>
+
+          <Section id="education" title="Education">
+            <ul className="space-y-2">
+              {education.map((e, i) => (
+                <li key={i} className="rounded-2xl border border-black/5 dark:border-white/10 p-4">
+                  <div className="font-medium">{e.degree}</div>
+                  <div className="text-sm text-gray-600 dark:text-gray-400">{e.place}</div>
+                  <div className="text-sm">{e.years}</div>
+                  <div className="text-sm">{e.advisor}</div>
+                </li>
+              ))}
+            </ul>
+          </Section>
+
+          <Section id="publications" title="Publications">
+            <List items={publications.map(p => p.text)} />
+          </Section>
+
+          <Section id="talks" title="Selected Presentations – Invited Talks & Conference Talks">
+            <h3 className="text-sm font-semibold">Invited Talks</h3>
+            <List items={invitedTalks} />
+            <h3 className="text-sm font-semibold mt-4">Conference Talks</h3>
+            <List items={conferenceTalks} />
+          </Section>
+
+          <Section id="posters" title="Posters">
+            <List items={posters} />
+          </Section>
+
+          <Section id="funding" title="Research Funding Awarded">
+            <List items={funding} />
+          </Section>
+
+          <Section id="awards" title="Awards, Honors, & Fellowships">
+            <List items={awards} />
+          </Section>
+
+          <Section id="positions" title="Other Academic Positions Held">
+            <List items={positions} />
+          </Section>
+
+          <Section id="outreach" title="Science Communication & Outreach">
+            <List items={outreach} />
+          </Section>
+
+          <Section id="press" title="Select Popular Press">
+            <List items={press} />
+          </Section>
+
+          <Section id="development" title="Professional Development">
+            <List items={professionalDev} />
+          </Section>
+
+          <Section id="courses" title="Course Instruction">
+            <h3 className="text-sm font-semibold">New Jersey Institute of Technology</h3>
+            <List items={coursesNJIT} />
+            <h3 className="text-sm font-semibold mt-4">Other Institutions</h3>
+            <List items={coursesOther} />
+          </Section>
+
+          <Section id="mentorship" title="Undergraduate Mentorship">
+            <List items={mentorship} />
+          </Section>
+
+          <Section id="service" title="Professional Service">
+            <List items={service} />
+          </Section>
+
+          <Section id="associations" title="Professional Associations">
+            <div className="flex flex-wrap gap-2">
+              {associations.map((a, i) => (
+                <span key={i} className="rounded-full border border-black/5 dark:border-white/10 px-3 py-1 text-sm">{a}</span>
+              ))}
+            </div>
+          </Section>
+
+          <footer className="pt-6 mt-4 border-t border-black/5 dark:border-white/10 text-xs text-gray-600 dark:text-gray-400">
+            Updated August 2025 · Built with React & Tailwind · © {new Date().getFullYear()} {contact.name}
+          </footer>
+        </div>
+      </main>
+
+      {/* Print styles */}
+      <style>{`
+        @media print {
+          header, aside, .print\:hidden { display: none !important; }
+          main { padding: 0 !important; }
+          section { page-break-inside: avoid; }
+          a { text-decoration: none; color: black; }
+          .rounded-2xl, .rounded-3xl { border: none; }
+        }
+      `}</style>
+    </div>
+  );
+}

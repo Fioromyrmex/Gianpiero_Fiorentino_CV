@@ -161,7 +161,7 @@ Jeeshan, A.,* **Fiorentino, G.,** Barden P. 2023. Niche Preference and Mandibula
 ---
 
 ## Teaching Experience
-###New Jersey Institute of Technology
+### New Jersey Institute of Technology
 
 -  BIOL 205: Foundations of Biology: Ecology and Evolution (Guest Lecturer)		     Summer ’24, ’25
 -  BIOL 206: Foundations of Biology: Ecology and Evolution Lab 		           Spring & Fall ’21–’23
@@ -169,7 +169,7 @@ Jeeshan, A.,* **Fiorentino, G.,** Barden P. 2023. Niche Preference and Mandibula
 -  BIOL 382: Evolutionary Animal Behavior Lab (Teaching Assistant)	       		          Summer ’22
 -  BIOL 352: Genetics (Teaching Assistant)				       		         	                    Fall ’20  
 
-###Other Institutions
+### Other Institutions
 
 -  Biologia Evolutiva (Teaching Assistant, Universidad Nacional de Colombia)      	                          Spring ’19
 -  Biologia de Artropodos (Teaching Assistant, Universidad Nacional de Colombia)            	                  Fall ’19
@@ -177,7 +177,7 @@ Jeeshan, A.,* **Fiorentino, G.,** Barden P. 2023. Niche Preference and Mandibula
 ---
 
 ## Mentorship
-###New Jersey Institute of Technology
+### New Jersey Institute of Technology
 
 2024-		Andrea Gomez (morphology)
 2023-		Kristina Camia (morphology)

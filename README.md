@@ -123,10 +123,21 @@ Jeeshan, A.,* **Fiorentino, G.,** Barden P. 2023. Niche Preference and Mandibula
 ---
 
 ## Positions
-- Visiting Researcher · American Museum of Natural History (AMNH) · 2022 – present
-- Research Assistant · NJIT · 2020 – present
-- Teaching Assistant · NJIT · 2020 – 2022
-- [More positions...]
+
+### Visiting researcher									      2022 - present
+    American Museum of Natural History (AMNH)			
+### Research Assistant									      2020 - present
+    New Jersey Institute of Technology (NJIT)
+### Teaching Assistant									         2020 – 2022
+    New Jersey Institute of Technology (NJIT)
+### Research Assistant									          2021 – 2023
+    Escuela Superior Politecnica de Chimborazo (ESPOCH)
+### Curatorial Assistant									        2017 – 2019
+    Universidad Nacional de Colombia (UNAL)
+### Teaching Assistant									         2018 – 2019
+    Universidad Nacional de Colombia (UNAL)
+### Visiting researcher									         2018 - 2023
+       Various institutions - Instituto Alexander von Humboldt: Villa de Leyva (Colombia), Instituto de Investigaciones   Amazónicas SINCHI: Leticia (Colombia), Museo Javeriano de Historia Natural Lorenzo Uribe S.J., Pontificia Universidad Javeriana: Bogotá D.C. (Colombia). Insect Collection Charles Darwin Research Station, ICCDRS: Galapagos (Ecuador)
 
 ---
 
@@ -150,21 +161,30 @@ Jeeshan, A.,* **Fiorentino, G.,** Barden P. 2023. Niche Preference and Mandibula
 ---
 
 ## Teaching Experience
-### New Jersey Institute of Technology
-- BIOL 205: Foundations of Biology: Ecology & Evolution (Guest Lecturer) · Summer ’24, ’25
-- BIOL 206: Foundations of Biology: Ecology & Evolution Lab · Spring & Fall ’21–’23
-- BIOL 484: Evolutionary Animal Behavior (Guest Lecturer) · Summer ’22
+###New Jersey Institute of Technology
 
-### Other Institutions
-- Biología Evolutiva (Teaching Assistant) · Universidad Nacional de Colombia · Spring ’19
-- Biología de Artrópodos (Teaching Assistant) · Universidad Nacional de Colombia · Fall ’19
+-  BIOL 205: Foundations of Biology: Ecology and Evolution (Guest Lecturer)		     Summer ’24, ’25
+-  BIOL 206: Foundations of Biology: Ecology and Evolution Lab 		           Spring & Fall ’21–’23
+-  BIOL 484: Evolutionary Animal Behavior (Guest Lecturer)		       		                Summer ’22
+-  BIOL 382: Evolutionary Animal Behavior Lab (Teaching Assistant)	       		          Summer ’22
+-  BIOL 352: Genetics (Teaching Assistant)				       		         	                    Fall ’20  
+
+###Other Institutions
+
+-  Biologia Evolutiva (Teaching Assistant, Universidad Nacional de Colombia)      	                          Spring ’19
+-  Biologia de Artropodos (Teaching Assistant, Universidad Nacional de Colombia)            	                  Fall ’19
 
 ---
 
 ## Mentorship
-- 2024– · Andrea Gomez (morphology)
-- 2023– · Kristina Camia (morphology)
-- [More names...]
+###New Jersey Institute of Technology
+
+2024-		Andrea Gomez (morphology)
+2023-		Kristina Camia (morphology)
+2023-		Luke Biting (morphology)
+2023-		Brock Shahinian (ecology)
+2023-		Saskia Trommelen (CT-scanning)
+2020-23	Jeeshan Ahmed (morphology)
 
 ---
 

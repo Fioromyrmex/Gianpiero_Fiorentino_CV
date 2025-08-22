@@ -8,6 +8,12 @@
 **Location:** Newark, NJ, USA  
 
 ---
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678-green?logo=orcid)](https://orcid.org/0000-0002-1234-5678)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=XXXXX)
+[![Twitter](https://img.shields.io/badge/Twitter-@GianpieroFi-blue?logo=twitter)](https://twitter.com/GianpieroFi)
+[![Email](https://img.shields.io/badge/Email-gf6%40njit.edu-red?logo=gmail)](mailto:gf6@njit.edu)
+
+---
 ## Table of Contents
 - [About](#about)
 - [Education](#education)

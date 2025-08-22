@@ -8,6 +8,26 @@
 **Location:** Newark, NJ, USA  
 
 ---
+## Table of Contents
+- [About](#about)
+- [Education](#education)
+- [Publications](#publications)
+- [Selected Presentations](#selected-presentations)
+  - [Invited Talks](#invited-talks)
+  - [Conference Talks](#conference-talks)
+- [Posters](#posters)
+- [Research Funding](#research-funding)
+- [Awards & Honors](#awards--honors)
+- [Positions](#positions)
+- [Outreach & Science Communication](#outreach--science-communication)
+- [Popular Press](#popular-press)
+- [Professional Development](#professional-development)
+- [Teaching Experience](#teaching-experience)
+- [Mentorship](#mentorship)
+- [Professional Service](#professional-service)
+- [Associations](#associations)
+
+---
 
 ## About
 Ph.D. candidate in Biology focused on ant systematics, paleoentomology, and how extinction shapes communities through deep time. Experienced in field work, CT-scanning, morphology, and science communication; committed to inclusive mentorship and teaching.

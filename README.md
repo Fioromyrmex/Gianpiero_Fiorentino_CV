@@ -179,12 +179,12 @@ Jeeshan, A.,* **Fiorentino, G.,** Barden P. 2023. Niche Preference and Mandibula
 ## Mentorship
 ### New Jersey Institute of Technology
 
-2024-		Andrea Gomez (morphology)
-2023-		Kristina Camia (morphology)
-2023-		Luke Biting (morphology)
-2023-		Brock Shahinian (ecology)
-2023-		Saskia Trommelen (CT-scanning)
-2020-23	Jeeshan Ahmed (morphology)
+- 2024-		Andrea Gomez (morphology)
+- 2023-		Kristina Camia (morphology)
+- 2023-		Luke Biting (morphology)
+- 2023-		Brock Shahinian (ecology)
+- 2023-		Saskia Trommelen (CT-scanning)
+- 2020-23	Jeeshan Ahmed (morphology)
 
 ---
 

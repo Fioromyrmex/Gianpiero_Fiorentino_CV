@@ -36,7 +36,7 @@
 ---
 
 ## About
-Ph.D. candidate in biology, focusing on ant systematics, paleoentomology, and how extinction shapes communities across deep time. Experienced in field work, CT-scanning, morphology, and science communication; committed to inclusive mentorship and teaching.
+Ph.D. candidate in biology, focusing on ant systematics, paleoentomology, and how extinction shapes communities across deep time. Experienced in field work, CT-scanning, morphology, phylogenetic comparative methods, and science communication; committed to inclusive mentorship and teaching.
 
 ---
 

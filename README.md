@@ -1,6 +1,6 @@
 # Gianpiero Fiorentino
 
-**Ph.D. Candidate in Biology**  
+**Ph.D. in Biology**  
 *New Jersey Institute of Technology & Rutgers–Newark*  
 **Email:** [gf6@njit.edu](mailto:gf6@njit.edu)  
 **Website:** [bardenlab.org/gianpiero](https://bardenlab.org/gianpiero)  
@@ -36,7 +36,7 @@
 ---
 
 ## About
-Ph.D. candidate in biology, focusing on ant systematics, paleoentomology, and how extinction shapes communities across deep time. Experienced in field work, CT-scanning, morphology, phylogenetic comparative methods, and science communication; committed to inclusive mentorship and teaching.
+Ph.D. candidate in biology, focusing on ant systematics, paleoentomology, and how extinction shapes communities across deep time. Experienced in fieldwork, CT-scanning, morphology, phylogenetic comparative methods, and science communication; committed to inclusive mentorship and teaching.
 
 ---
 
@@ -54,9 +54,15 @@ Ph.D. candidate in biology, focusing on ant systematics, paleoentomology, and ho
 ---
 
 ## Publications
-- **Fiorentino, G.,** Ladino, N., Mera, D., Cubillos, D., Cavalcanti, J. P., Probst, R., ... & Barden, P. (2025). *The ants of Dominican Amber (Hymenoptera: Formicidae).* Bulletin of the American Museum of Natural History. (in prep).
-- **Fiorentino, G.,** Bouju, V., Sosa, D., Navarro, S., Barden, P. (2025). *The ant genus Hypoponera (Hymenoptera: Formicidae) in Dominican amber.* Journal of Paleontology. (in prep).
-- Bouju, V., Chény, C., Gotzek, D., Wang, B., Perrichot, V., Barden, P., **Fiorentino, G.,** (2025). *The myrmicine thief ants Solenopsis...* (in prep).
+- **Fiorentino, G.,**  Ladino, N., Mera, D., Cubillos, D., Cavalcanti, J. P., Probst, R., Blaimer, B., Camacho, G., Fernandez, F., Feitosa, R., Guerrero, R. J., Lattke, J., LaPolla, J., Schultz, T., Sosa-Calvo, J., Economo, E., Sosa, D., Navarro, S., & Barden, P. (2026). The ant fauna of Miocene aged Dominican Amber (Hymenoptera: Formicidae). Bulletin of the American Museum of Natural History. (in press).             
+
+15-  Bouju, V., Chény, C., Gotzek, D., Wang, B., Perrichot, V., Barden, P., **Fiorentino, G.**  (2026). The myrmicine thief ants Solenopsis (Hymenoptera: Formicidae) in Dominican amber: First fossil record of the genus in fossilized resin. Fossil Record 29(2): 499-517. [https://doi.org/10.3897/fr.29.181268](https://doi.org/10.3897/fr.29.181268) 
+
+14- Tocora, M. C., Pedraza, L., **Fiorentino, G.,**  & Fernández, F. (2026). Description of New Species Within the Crematogaster limata Species Complex (Formicidae: Myrmicinae) in Colombia. Diversity, 18(6), 338. [https://doi.org/10.3390/d18060338](https://doi.org/10.3390/d18060338) 
+
+13- Williams, J.L., Puckett, C., Herrera, H.W., Lapolla, J.S., **Fiorentino, G.,** Tocora-Protz, M.C., Fernández, F., Dekoninck, W. & Lucky, A. (2026) Taxonomic revision of the Nylanderia guatemalensis species complex (Hymenoptera: Formicidae) in the Neotropics, with implications for conservation and invasion biology. Zootaxa, 5837 (2), 201–239.
+    
+12- **Fiorentino, G.,** Bouju, V., Sosa, D., Navarro, S., Barden, P. (2026). The ant genus Hypoponera (Hymenoptera: Formicidae) in Dominican amber. Journal of Paleontology. 2025;99(6):1418-1422. [https://doi.org/10.1017/jpa.2025.10213](https://doi.org/10.1017/jpa.2025.10213)
 
 11- **Fiorentino, G.,** Probst, R., & Richter, A. (2025). *A fossil-informed pattern of body size increase and local extinction in Basiceros dirt ants (Hymenoptera: Formicidae).* Proceedings of the Royal Society B, 292, 2045. [https://doi.org/10.1098/rspb.2024.2171](https://doi.org/10.1098/rspb.2024.2171)
 

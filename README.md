@@ -1,7 +1,7 @@
 # Gianpiero Fiorentino
 **Ph.D. in Biology**  
 
-*Postdoctoral researcher
+*Postdoctoral researcher*
 *New Jersey Institute of Technology & Rutgers–Newark*  
 **Email:** [gf6@njit.edu](mailto:gf6@njit.edu)  
 **Website:** [bardenlab.org/gianpiero](https://bardenlab.org/gianpiero)  
